@@ -1,3 +1,3 @@
 # data-structure
 
-Algorithms written in C ++, Python, C
+Algorithms and  data structure in C ++, Python, C
